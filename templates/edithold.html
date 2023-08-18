@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="form-element" id="new-hold-form">
+        <form method="POST" class="create-hold-form" id="create-hold-form" enctype="multipart/form-data">
+            <h3>Create New Hold</h3>
+            <div class="form-element">
+                <label for="holdId">Hold ID:</label>
+                <input id ="holdId" class="smallTextBox" name="holdId" type="text" value="{{ new_hold_id }}" readonly>
+            </div>
+            <div class="form-element">
+                <label for="manufacturer">Manufacturer:</label>
+                <input id="manufacturer" name="manufacturer" type="text">
+            </div>
+            <div class="form-element">
+                <label for="productName">Product Name:</label>
+                <input id="productName" name="productName" type="text">
+            </div>
+            <div class="form-element">
+                <label for="holdType">Hold Type:</label>
+                <select id="holdType" name="holdType">
+                    <option value="jug">Jug</option>
+                    <option value="crimp">Crimp</option>
+                    <option value="pinch">Pinch</option>
+                    <option value="sloper">Sloper</option>
+                    <option value="foothold">Foothold</option>
+                </select>
+            </div>
+            <div class="form-element">
+                <label for="color">Color:</label>
+                <select id="color" name="color">
+                    <option value="blue">Blue</option>
+                    <option value="yellow">Yellow</option>
+                    <option value="red">Red</option>
+                    <option value="green">Green</option>
+                    <option value="orange">Orange</option>
+                    <option value="purple">Purple</option>
+                    <option value="pink">Pink</option>
+                    <option value="white">White</option>
+                    <option value="gray">Gray</option>
+                    <option value="teal">Teal</option>
+                    <option value="seafoam">Seafoam</option>
+                    <option value="Lime">Lime</option>
+                </select>
+            </div>
+            <div class="form-element">
+                <label for="depth">Depth:</label>
+                <input id="depth" name="depth" type="number" min="0.125" max="3.000" step="0.125">
+            </div>
+            <div class="form-element">
+                <label for="width">Width:</label>
+                <input id="width" name="width" type="range" min="1" max="16" oninput="widthValue.innerText = this.value"> <span id="widthValue"></span>
+            </div>
+            <div class="form-element">
+                <label for="incut">Incut:</label>
+                <input id="incut" name="incut" type="range" min="1" max="9" oninput="incutValue.innerText = this.value"> <span id="incutValue"></span>
+            </div>
+            <div class="form-element">
+                <label for="texture">Texture:</label>
+                <input id="texture" name="texture" type="range" min="1" max="4" oninput="textureValue.innerText = this.value"> <span id="textureValue"></span>
+            </div>
+            <h5>Add Image Below:</h5>
+            <div class="form-element">
+                <div class="drop-zone" id="drop-zone">
+                    <div class="bolt">
+                        <div class="bolt-hole"></div>
+                    </div>
+                    <div class="bolt">
+                        <div class="bolt-hole"></div>
+                    </div>
+                    <div class="bolt">
+                        <div class="bolt-hole"></div>
+                    </div>
+                </div>
+            </div> 
+            <div class="form-element">
+                <button class="zoom-out" type="button" onclick="adjustSize(-2)">-</button>
+                <button class="zoom-in" type="button" onclick="adjustSize(2)">+</button>
+                <input name="imageWidth" class="hidden-element" id="image-width" type="text" value="">
+                <input name="imageHeight" class="hidden-element" id="image-height" type="text" value="">
+            </div>
+            <div class="form-element">
+                <label for="angle">Angle:</label>
+                <input id="angle" name="angle" type="range" min="-179" max="180" oninput="angleValue.innerText = this.value" onchange="changeAngle(document.getElementById('hold-preview'), this.value)"> <span id="angleValue"></span>
+            </div>
+            <div class="form-element">
+                <label for="addToWall">Add to Wall?</label>
+                <input id="addToWall" name="addToWall" type="checkbox" onchange="boltHold()">
+            </div>
+            <div class="form-element">
+                <label for="rowRead">row</label>
+                <input name="row" class="smallTextBox" id="rowRead" type="text" value="" readonly>
+            </div>
+            <div class="form-element">
+                <label for="colRead">column</label>
+                <input name="column" class="smallTextBox" id="colRead" type="text" value="" readonly>
+            </div>
+            <div class="form-element">
+                <input name="imageURL" class="hidden-element" id="hold-image-url" type="text" value="" readonly>
+            </div>
+            <div class="form-element">
+                <button id="submit" type="submit">Save</button>
+            </div>
+        </form>
+    </div> 
+</body>
+</html>

@@ -1,0 +1,6 @@
+static/final_holds
+static/raw_holds
+static/rembg_holds
+__pycache__
+env
+lib

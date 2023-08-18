@@ -1,0 +1,877 @@
+[
+    {
+        "row": "11",
+        "col": "2",
+        "image": "static/final_holds/1.svg",
+        "width": "40",
+        "height": "40"
+    },
+    {
+        "row": "8",
+        "col": "5",
+        "image": "static/final_holds/2.svg",
+        "width": "40",
+        "height": "40"
+    },
+    {
+        "row": "6",
+        "col": "2",
+        "image": "static/final_holds/3.svg",
+        "width": "40",
+        "height": "40"
+    },
+    {
+        "row": "3",
+        "col": "5",
+        "image": "static/final_holds/4.svg",
+        "width": "40",
+        "height": "40"
+    },
+    {
+        "row": "0",
+        "col": "2",
+        "image": "static/final_holds/5.svg",
+        "width": "40",
+        "height": "40"
+    },
+    {
+        "row": "18",
+        "col": "3",
+        "image": "static/final_holds/6.svg",
+        "width": "16",
+        "height": "16"
+    },
+    {
+        "row": "16",
+        "col": "0",
+        "image": "static/final_holds/7.svg",
+        "width": "16",
+        "height": "16"
+    },
+    {
+        "row": "14",
+        "col": "6",
+        "image": "static/final_holds/8.svg",
+        "width": "16",
+        "height": "16"
+    },
+    {
+        "row": "13",
+        "col": "22",
+        "image": "static/final_holds/9.svg",
+        "width": "36",
+        "height": "36"
+    },
+    {
+        "row": "10",
+        "col": "17",
+        "image": "static/final_holds/10.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "8",
+        "col": "19",
+        "image": "static/final_holds/11.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "5",
+        "col": "18",
+        "image": "static/final_holds/12.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "2",
+        "col": "21",
+        "image": "static/final_holds/13.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "0",
+        "col": "17",
+        "image": "static/final_holds/14.svg",
+        "width": "34",
+        "height": "34"
+    },
+    {
+        "row": "20",
+        "col": "18",
+        "image": "static/final_holds/15.svg",
+        "width": "20",
+        "height": "20"
+    },
+    {
+        "row": "17",
+        "col": "23",
+        "image": "static/final_holds/16.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "16",
+        "col": "19",
+        "image": "static/final_holds/17.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "15",
+        "col": "10",
+        "image": "static/final_holds/18.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "16",
+        "col": "12",
+        "image": "static/final_holds/19.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "12",
+        "col": "14",
+        "image": "static/final_holds/20.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "12",
+        "col": "8",
+        "image": "static/final_holds/21.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "8",
+        "col": "8",
+        "image": "static/final_holds/22.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "7",
+        "col": "14",
+        "image": "static/final_holds/23.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "3",
+        "col": "13",
+        "image": "static/final_holds/24.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "0",
+        "col": "9",
+        "image": "static/final_holds/25.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "21",
+        "col": "16",
+        "image": "static/final_holds/26.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "21",
+        "col": "11",
+        "image": "static/final_holds/27.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "19",
+        "col": "10",
+        "image": "static/final_holds/28.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "15",
+        "col": "3",
+        "image": "static/final_holds/29.svg",
+        "width": "32",
+        "height": "32"
+    },
+    {
+        "row": "16",
+        "col": "8",
+        "image": "static/final_holds/30.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "10",
+        "col": "7",
+        "image": "static/final_holds/31.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "8",
+        "col": "9",
+        "image": "static/final_holds/32.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "8",
+        "col": "11",
+        "image": "static/final_holds/33.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "3",
+        "col": "10",
+        "image": "static/final_holds/34.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "0",
+        "col": "7",
+        "image": "static/final_holds/35.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "20",
+        "col": "2",
+        "image": "static/final_holds/36.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "22",
+        "col": "8",
+        "image": "static/final_holds/37.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "18",
+        "col": "9",
+        "image": "static/final_holds/38.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "15",
+        "col": "8",
+        "image": "static/final_holds/39.svg",
+        "width": "20",
+        "height": "20"
+    },
+    {
+        "row": "14",
+        "col": "15",
+        "image": "static/final_holds/40.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "22",
+        "col": "12",
+        "image": "static/final_holds/41.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "22",
+        "col": "18",
+        "image": "static/final_holds/42.svg",
+        "width": "20",
+        "height": "20"
+    },
+    {
+        "row": "12",
+        "col": "12",
+        "image": "static/final_holds/43.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "11",
+        "col": "17",
+        "image": "static/final_holds/44.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "19",
+        "col": "13",
+        "image": "static/final_holds/45.svg",
+        "width": "18",
+        "height": "18"
+    },
+    {
+        "row": "8",
+        "col": "13",
+        "image": "static/final_holds/46.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "16",
+        "col": "17",
+        "image": "static/final_holds/47.svg",
+        "width": "20",
+        "height": "20"
+    },
+    {
+        "row": "6",
+        "col": "18",
+        "image": "static/final_holds/48.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "3",
+        "col": "15",
+        "image": "static/final_holds/49.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "2",
+        "col": "19",
+        "image": "static/final_holds/50.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "0",
+        "col": "14",
+        "image": "static/final_holds/51.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "15",
+        "col": "20",
+        "image": "static/final_holds/52.svg",
+        "width": "36",
+        "height": "36"
+    },
+    {
+        "row": "22",
+        "col": "19",
+        "image": "static/final_holds/53.svg",
+        "width": "16",
+        "height": "16"
+    },
+    {
+        "row": "11",
+        "col": "20",
+        "image": "static/final_holds/54.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "19",
+        "col": "15",
+        "image": "static/final_holds/55.svg",
+        "width": "20",
+        "height": "20"
+    },
+    {
+        "row": "10",
+        "col": "14",
+        "image": "static/final_holds/56.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "9",
+        "col": "13",
+        "image": "static/final_holds/57.svg",
+        "width": "32",
+        "height": "32"
+    },
+    {
+        "row": "16",
+        "col": "9",
+        "image": "static/final_holds/58.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "6",
+        "col": "9",
+        "image": "static/final_holds/59.svg",
+        "width": "38",
+        "height": "38"
+    },
+    {
+        "row": "12",
+        "col": "3",
+        "image": "static/final_holds/60.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "0",
+        "col": "5",
+        "image": "static/final_holds/61.svg",
+        "width": "38",
+        "height": "38"
+    },
+    {
+        "row": "4",
+        "col": "4",
+        "image": "static/final_holds/62.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "15",
+        "col": "6",
+        "image": "static/final_holds/63.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "15",
+        "col": "11",
+        "image": "static/final_holds/64.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "22",
+        "col": "11",
+        "image": "static/final_holds/65.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "11",
+        "col": "11",
+        "image": "static/final_holds/66.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "20",
+        "col": "7",
+        "image": "static/final_holds/67.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "8",
+        "col": "6",
+        "image": "static/final_holds/68.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "5",
+        "col": "13",
+        "image": "static/final_holds/69.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "2",
+        "col": "7",
+        "image": "static/final_holds/70.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "13",
+        "col": "8",
+        "image": "static/final_holds/71.svg",
+        "width": "16",
+        "height": "16"
+    },
+    {
+        "row": "0",
+        "col": "13",
+        "image": "static/final_holds/72.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "0",
+        "col": "10",
+        "image": "static/final_holds/73.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "15",
+        "col": "14",
+        "image": "static/final_holds/74.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "15",
+        "col": "17",
+        "image": "static/final_holds/75.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "19",
+        "col": "22",
+        "image": "static/final_holds/76.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "11",
+        "col": "15",
+        "image": "static/final_holds/77.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "20",
+        "col": "17",
+        "image": "static/final_holds/78.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "11",
+        "col": "10",
+        "image": "static/final_holds/79.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "8",
+        "col": "14",
+        "image": "static/final_holds/80.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "6",
+        "col": "11",
+        "image": "static/final_holds/81.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "4",
+        "col": "9",
+        "image": "static/final_holds/82.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "0",
+        "col": "11",
+        "image": "static/final_holds/83.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "10",
+        "col": "5",
+        "image": "static/final_holds/84.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "9",
+        "col": "11",
+        "image": "static/final_holds/85.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "15",
+        "col": "9",
+        "image": "static/final_holds/86.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "17",
+        "col": "5",
+        "image": "static/final_holds/87.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "7",
+        "col": "10",
+        "image": "static/final_holds/88.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "4",
+        "col": "15",
+        "image": "static/final_holds/89.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "10",
+        "col": "18",
+        "image": "static/final_holds/90.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "0",
+        "col": "15",
+        "image": "static/final_holds/91.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "22",
+        "col": "9",
+        "image": "static/final_holds/92.svg",
+        "width": "28",
+        "height": "28"
+    },
+    {
+        "row": "15",
+        "col": "19",
+        "image": "static/final_holds/93.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "14",
+        "col": "18",
+        "image": "static/final_holds/94.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "19",
+        "col": "23",
+        "image": "static/final_holds/95.svg",
+        "width": "20",
+        "height": "20"
+    },
+    {
+        "row": "11",
+        "col": "16",
+        "image": "static/final_holds/96.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "9",
+        "col": "16",
+        "image": "static/final_holds/97.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "20",
+        "col": "16",
+        "image": "static/final_holds/98.svg",
+        "width": "20",
+        "height": "20"
+    },
+    {
+        "row": "13",
+        "col": "11",
+        "image": "static/final_holds/99.svg",
+        "width": "20",
+        "height": "20"
+    },
+    {
+        "row": "6",
+        "col": "10",
+        "image": "static/final_holds/100.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "4",
+        "col": "12",
+        "image": "static/final_holds/101.svg",
+        "width": "18",
+        "height": "18"
+    },
+    {
+        "row": "16",
+        "col": "18",
+        "image": "static/final_holds/102.svg",
+        "width": "18",
+        "height": "18"
+    },
+    {
+        "row": "16",
+        "col": "13",
+        "image": "static/final_holds/103.svg",
+        "width": "34",
+        "height": "34"
+    },
+    {
+        "row": "16",
+        "col": "10",
+        "image": "static/final_holds/104.svg",
+        "width": "32",
+        "height": "32"
+    },
+    {
+        "row": "13",
+        "col": "9",
+        "image": "static/final_holds/105.svg",
+        "width": "32",
+        "height": "32"
+    },
+    {
+        "row": "10",
+        "col": "11",
+        "image": "static/final_holds/106.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "2",
+        "col": "4",
+        "image": "static/final_holds/107.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "3",
+        "col": "9",
+        "image": "static/final_holds/108.svg",
+        "width": "32",
+        "height": "32"
+    },
+    {
+        "row": "0",
+        "col": "3",
+        "image": "static/final_holds/109.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "6",
+        "col": "6",
+        "image": "static/final_holds/110.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "22",
+        "col": "10",
+        "image": "static/final_holds/111.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "21",
+        "col": "15",
+        "image": "static/final_holds/112.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "19",
+        "col": "12",
+        "image": "static/final_holds/113.svg",
+        "width": "22",
+        "height": "22"
+    },
+    {
+        "row": "19",
+        "col": "12",
+        "image": "static/final_holds/113.svg",
+        "width": "24",
+        "height": "24"
+    },
+    {
+        "row": "17",
+        "col": "11",
+        "image": "static/final_holds/114.svg",
+        "width": "20",
+        "height": "20"
+    },
+    {
+        "row": "14",
+        "col": "9",
+        "image": "static/final_holds/115.svg",
+        "width": "30",
+        "height": "30"
+    },
+    {
+        "row": "11",
+        "col": "8",
+        "image": "static/final_holds/116.svg",
+        "width": "26",
+        "height": "26"
+    },
+    {
+        "row": "8",
+        "col": "17",
+        "image": "static/final_holds/118.svg",
+        "width": "36",
+        "height": "36"
+    },
+    {
+        "row": "8",
+        "col": "20",
+        "image": "static/final_holds/119.svg",
+        "width": "36",
+        "height": "36"
+    },
+    {
+        "row": "6",
+        "col": "13",
+        "image": "static/final_holds/120.svg",
+        "width": "52",
+        "height": "52"
+    },
+    {
+        "row": "9",
+        "col": "8",
+        "image": "static/final_holds/121.svg",
+        "width": "52",
+        "height": "52"
+    },
+    {
+        "row": "9",
+        "col": "15",
+        "image": "static/final_holds/122.svg",
+        "width": "32",
+        "height": "32"
+    },
+    {
+        "row": "6",
+        "col": "16",
+        "image": "static/final_holds/123.svg",
+        "width": "32",
+        "height": "32"
+    },
+    {
+        "row": "5",
+        "col": "9",
+        "image": "static/final_holds/124.svg",
+        "width": "34",
+        "height": "34"
+    },
+    {
+        "row": "9",
+        "col": "4",
+        "image": "static/final_holds/125.svg",
+        "width": "40",
+        "height": "40"
+    }
+]

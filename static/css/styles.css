@@ -1,0 +1,142 @@
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h5 {
+    margin-top: 4px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.box div{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+#board{
+    position: relative;
+}
+#button-menu{
+    position: relative;
+    /*margin: auto;*/
+}
+
+#new-hold-form{
+    display: block;
+    height: 0;
+    line-height: 0;
+}
+
+.wall{
+    width: 576px;
+    height: 576px;
+    border: 15px solid #FFE5A3;
+    background-color: #FFE5A3;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+form{
+    position: absolute;
+    border-radius: 8px;
+    top: 100%;
+    z-index: 5;
+}
+
+#create-hold-form{
+    display: none;
+    width: 250px;
+    background-color: white;
+    border: 1px solid black;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.bolt{
+    display: flex;
+    width: 24px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+}
+
+.hover {
+    outline: 1px solid white;
+}
+
+.bolted {
+    outline: 1px solid green;
+}
+
+.bolt-hole{
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    background-color: black;
+}
+
+img{
+    position: absolute;
+}
+
+button {
+    width: 100px;
+    height: 25px;
+    color: white;
+    margin: 2px;
+    border: none;
+    border-radius: 8px;
+    background-color: #037bfc;
+    justify-content: center;
+    cursor: pointer;
+}
+
+
+.form-element{
+    padding-top: 3%;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-element button{
+    width: 24px;
+    height: 24px;
+    background-color: #037bfc;
+    margin: 2px;
+    text-align: center;
+}
+.drop-zone {
+    position: relative;
+    width: 72px;
+    height: 72px;
+    background-color: #FFE5A3;
+    border: 1px dashed black;
+}
+
+#submit {
+    width: 96px;
+    height: 24px;
+}
+
+.smallTextBox {
+    width: 24px;
+}
+
+.hidden-element {
+    display: none;
+}
+
+#edit-hold-button {
+    display: none;
+}
+
+#action-button-menu {
+    height: 29px;
+}
